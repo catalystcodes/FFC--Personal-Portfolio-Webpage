@@ -162,9 +162,10 @@ footer {
 }
 .p1 {
     margin-top: 2rem;
-    margin-right: -20rem;
+    margin-right: 10rem;
 }
 .head1 {
+    margin-right: 40rem;
     font-size: 60px;
     color: #ffffff;
 }
